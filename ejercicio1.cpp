@@ -11,7 +11,7 @@ int main() {
     }
 
     int objetoElegido = inventario[4];
-    cout << "Objeto elegido (posicion 4): " << objetoElegido << endl;
+    cout << "Objeto elegido(posicion 4): " << objetoElegido << endl;
     inventario[1] = 10;
     cout << "Modificando inventario[1] = 10" << endl;
 
