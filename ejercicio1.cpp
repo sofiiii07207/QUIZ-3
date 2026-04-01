@@ -34,7 +34,7 @@ int main() {
         }
     }
 
-    cout << "Valor maximo: " << maximo << " en indice " << indiceMax << endl;
+    cout << "Valor maximo: " << maximo << "en indice" << indiceMax << endl;
 
     return 0;
 }
